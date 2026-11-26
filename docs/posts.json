@@ -1,0 +1,14 @@
+[
+  {
+    "id": "sample-1",
+    "url": "https://www.amazon.in/dp/B0EXAMPLE01?tag=yourtag-21",
+    "card": "cards/sample-1.png",
+    "caption": "Sample Wireless Noise-Canceling Headphones\n\n40-hour battery life, USB-C fast charge, and crisp call clarity for daily work.\n\nCheck it out on Amazon: https://www.amazon.in/dp/B0EXAMPLE01?tag=yourtag-21\n\n#ad #TechAudio | As an Amazon Associate I earn from qualifying purchases."
+  },
+  {
+    "id": "sample-2",
+    "url": "https://www.amazon.in/dp/B0EXAMPLE02?tag=yourtag-21",
+    "card": "cards/sample-2.png",
+    "caption": "Sample Ergonomic Laptop Stand\n\nFoldable aluminum frame with 6 height angles to reduce neck strain.\n\nCheck it out on Amazon: https://www.amazon.in/dp/B0EXAMPLE02?tag=yourtag-21\n\n#ad #DeskSetup | As an Amazon Associate I earn from qualifying purchases."
+  }
+]

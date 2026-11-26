@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sample-1",
+    "asin": "B0EXAMPLE01",
+    "affiliate_url": "",
+    "title": "Sample Wireless Noise-Canceling Headphones",
+    "category": "Tech & Audio",
+    "highlight": "40-hour battery life, USB-C fast charge, and crisp call clarity for daily work.",
+    "badge": "Top Pick",
+    "cta": "Check Today's Offer on Amazon"
+  },
+  {
+    "id": "sample-2",
+    "asin": "B0EXAMPLE02",
+    "affiliate_url": "",
+    "title": "Sample Ergonomic Laptop Stand",
+    "category": "Desk Setup",
+    "highlight": "Foldable aluminum frame with 6 height angles to reduce neck strain.",
+    "badge": "Desk Essential",
+    "cta": "View on Amazon"
+  }
+]
