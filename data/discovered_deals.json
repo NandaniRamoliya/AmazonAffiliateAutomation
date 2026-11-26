@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-11-26T09:35:54.274950+00:00",
+  "marketplace": "amazon.in",
+  "partner_tag": "ug0f7-21",
+  "count": 2,
+  "deals": [
+    {
+      "id": "pigeon-handy-chopper",
+      "asin": "B01LWYX32K",
+      "title": "Pigeon 3-Blade Manual Vegetable Chopper (350ml)",
+      "category": "Kitchen & Dining",
+      "highlight": "Chops onions, garlic, and veggies in seconds with a durable pull-string mechanism. Unbeatable daily kitchen essential.",
+      "badge": "\ud83d\udd25 9% Bestseller",
+      "demand_score": 98,
+      "cta": "Check Offer on Amazon",
+      "commission_rate": 9.0,
+      "commission_label": "9% Commission",
+      "tier": "Top Tier",
+      "affiliate_url": "https://www.amazon.in/dp/B01LWYX32K?tag=ug0f7-21"
+    },
+    {
+      "id": "closet-motion-sensor-led",
+      "asin": "B095W84H65",
+      "title": "Rechargeable Magnetic Motion Sensor LED Light Bar",
+      "category": "Home & Organization",
+      "highlight": "Auto-sensing stick-on light bar for wardrobes, kitchen counters, stairs, and dark hallways. USB-C rechargeable.",
+      "badge": "\ud83d\udca1 9% Home Must-Have",
+      "demand_score": 96,
+      "cta": "View on Amazon",
+      "commission_rate": 9.0,
+      "commission_label": "9% Commission",
+      "tier": "Top Tier",
+      "affiliate_url": "https://www.amazon.in/dp/B095W84H65?tag=ug0f7-21"
+    }
+  ]
+}
