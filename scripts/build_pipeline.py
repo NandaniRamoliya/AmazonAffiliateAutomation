@@ -16,7 +16,7 @@ POSTED_FILE = ROOT_DIR / "data" / "posted_ids.json"
 DOCS_DIR = ROOT_DIR / "docs"
 CARDS_DIR = DOCS_DIR / "cards"
 
-PARTNER_TAG = os.getenv("AMAZON_PARTNER_TAG", "yourtag-21").strip() or "yourtag-21"
+PARTNER_TAG = os.getenv("AMAZON_PARTNER_TAG", "ug0f7-21").strip() or "ug0f7-21"
 MARKETPLACE = os.getenv("AMAZON_MARKETPLACE", "amazon.in").strip() or "amazon.in"
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "").strip()
